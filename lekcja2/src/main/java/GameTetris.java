@@ -1,9 +1,4 @@
-/**
- * Java. Classic Game Tetris
- *
- * @author Sergey Iryupin
- * @version 0.3.7 dated September 20, 2016
- */
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
